@@ -19,7 +19,7 @@ Welcome to the HPS-experimental- wiki!
 |```diff + this will be highlighted in green - this will be highlighted in red```| <img src="https://danbooru.donmai.us/favicon.ico" width="16" height="16" alt="Danbooru">Danbooru danbooru.donmai.us | [![download](https://github.com/MsgLosers/HPS-experimental-/blob/master/.github/content/download.jpg)](https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts/blob/master/Download%20System/All-in-Ones/Single-Sites/easy-import-danbooru-tag-search-2018.09.20.png) | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
 
 .
-- ![#FF4136](https://placehold.it/12/f03c15/000000?text=+) `#red`
-- ![#c5f015](https://placehold.it/12/c5f015/000000?text=+) `#c5f015`
-- ![#1589F0](https://placehold.it/12/1589F0/000000?text=+) `#1589F0`
+- ![#FF4136](https://placehold.it/8x16/f03c15/000000?text=+) `#red`
+- ![#c5f015](https://placehold.it/8x16/c5f015/000000?text=+) `#c5f015`
+- ![#1589F0](https://placehold.it/8x16/1589F0/000000?text=+) `#1589F0`
 .
