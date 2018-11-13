@@ -16,9 +16,6 @@ Welcome to the HPS-experimental- wiki!
 |   |   |   |   |   |   |   |   |   |   |
 |![safe](https://github.com/MsgLosers/HPS-experimental-/blob/master/.github/content/safe.jpg)| <img src="https://danbooru.donmai.us/favicon.ico" width="16" height="16" alt="Danbooru">Danbooru danbooru.donmai.us | [![download](https://github.com/MsgLosers/HPS-experimental-/blob/master/.github/content/download.jpg)](https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts/blob/master/Download%20System/All-in-Ones/Single-Sites/easy-import-danbooru-tag-search-2018.09.20.png) | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
 |   |   |   |   |   |   |   |   |   |   |
-|```diff
-+ this will be highlighted in green
-- this will be highlighted in red
-```| <img src="https://danbooru.donmai.us/favicon.ico" width="16" height="16" alt="Danbooru">Danbooru danbooru.donmai.us | [![download](https://github.com/MsgLosers/HPS-experimental-/blob/master/.github/content/download.jpg)](https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts/blob/master/Download%20System/All-in-Ones/Single-Sites/easy-import-danbooru-tag-search-2018.09.20.png) | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
+|```diff + this will be highlighted in green - this will be highlighted in red```| <img src="https://danbooru.donmai.us/favicon.ico" width="16" height="16" alt="Danbooru">Danbooru danbooru.donmai.us | [![download](https://github.com/MsgLosers/HPS-experimental-/blob/master/.github/content/download.jpg)](https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts/blob/master/Download%20System/All-in-Ones/Single-Sites/easy-import-danbooru-tag-search-2018.09.20.png) | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
 
 .
